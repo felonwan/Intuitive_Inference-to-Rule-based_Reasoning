@@ -2,7 +2,7 @@
 Check the LLMs' capacity of Intuitive Inference and Rule-based Reasoning. Inspired by the distinct performances between answering '9.11 or 9.9, which is bigger?'  and 'which is bigger, 9.11 or 9.9?'.
 
 ## Introduction
-As a reasonable answering style, LLMs usually first state the key answer clearly and then give reasoning details, especially for a realative simple question. We termed **Intuitive Inference** (II) as the directly given answer of a question at the start of the answer without a process of logic/rule-based reasoning. While the **Rule-based Reasoning** (RR) is detailed and recalled related rules, e.g., Chain of thought (CoT). Incorrect descriptions II and RR of LLM can both be called **Hallucination**.
+As a reasonable answering style, LLMs usually first state the key answer clearly and then give reasoning details, especially for a realative simple question. We termed **Intuitive Inference** (II) as the directly given conclusion of a question at the start of the answer without a prepositive process of logic/rule-based reasoning. While the **Rule-based Reasoning** (RR) is detailed and recalled related rules, e.g., Chain of thought (CoT). Incorrect descriptions II and RR of LLM can both be called **Hallucination**.
 
 ## Results
 ## Combined Intuitive Inference and Rule-based Reasoning
