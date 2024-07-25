@@ -1,4 +1,4 @@
-# The Intuitive_Inference and Rule-based Reasoning in LLMs
+# The Intuitive Inference and Rule-based Reasoning in LLMs
 Check the LLMs' capacity of Intuitive Inference and Rule-based Reasoning. Inspired by the distinct performances between answering '9.11 or/and 9.9, which is bigger?'  and 'which is bigger, 9.11 or/and 9.9?'.
 
 ## Introduction
