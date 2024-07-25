@@ -1,3 +1,9 @@
+##########==>
+# Calling API or local model to answer number comparement questions, also measuring the capacity of Intuition and Reasoning in LLMs.
+# email: felonwan@gmail.com
+# upload date: 2024-07-14
+##########==||
+
 # ~ from transformers import AutoModelForCausalLM, AutoTokenizer
 from modelscope import AutoTokenizer, AutoModelForCausalLM
 from modelscope import GenerationConfig
