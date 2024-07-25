@@ -1,4 +1,4 @@
-# The Intuitive Inference and Rule-based Reasoning in LLMs
+# Intuitive Inference and Rule-based Reasoning in LLMs
 
 ## Abstract
 Inspired by the distinct performances and responding styles between answering '9.11 or 9.9, which is bigger?'  and 'which is bigger, 9.11 or 9.9?', we checked the LLMs' capacity of Intuitive Inference and Rule-based Reasoning. We systematically examined possible factors, and found interesting results ...
@@ -40,7 +40,6 @@ The same tokenization of the numbers were found, despite the order reversal of '
 
 
 ## Discussion
-
 ### How to reveal factors underlying a intuition?
 The most convincing way: analysing the inner computations of LLM.
 
