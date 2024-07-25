@@ -31,7 +31,7 @@ The performance under different conditions is shown in the following table.
 ![微信图片_20240717150545](https://github.com/user-attachments/assets/c845798a-d023-4f93-817a-3394522fcad0)
 
 
-## Not the tokenizer's fault: Default vs. Manipulated Input Tokens
+## Not the tokenizer's fault: Default vs. Manipulated tokenizations
 The same tokenization of the numbers were found, despite the order reversal of 'rule' and 'numbers'. Except the number tokens, there are another difference, the token of space and 'which' is different with ' which' (which with a space ahead). To exclude this seeming 'not the reason' minor difference, we manipulated the input tokens with the default tokenizer of each LLM. By replacing the token of '11' with two tokens of '1', and the token of ' which' as ' ' and 'which', we create a comparement of equal token distribution but different orders.
 
 ![image](https://github.com/user-attachments/assets/e4ade3b1-1f54-4fe4-97bb-cfc8b4e6f11c)
