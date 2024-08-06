@@ -61,9 +61,10 @@ As have revealed in previous sections, there exists some differences between lan
 Gpt-4-turbo and gpt-4o have demonstrated different response patterns.
 
 ### Conjunction
-Is the conjunction matters? The answer is no! It improves accuracy, but is not a determinate factor.
+Is the conjunction matters? The answer is no! It improves accuracy to near the random level, but is not a determinate factor.
 
-![image](https://github.com/user-attachments/assets/2174790d-9bb0-4d0b-b787-2159bdea4d92)
+![image](https://github.com/user-attachments/assets/3644bf53-197c-4cbc-9e61-f1a15bcfd4d2)
+
 
 ![image](https://github.com/user-attachments/assets/924168d2-83e2-4b29-b8db-746cf1a3a32a)
 
